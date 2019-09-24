@@ -31,6 +31,14 @@ body {
     padding-top: 20px;
 }
 
+.gallery-frame {
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    width: 100%;
+    margin-top: 40px;
+}
+
 .header {
     background: rgba(6, 7, 13, 1);
 }
